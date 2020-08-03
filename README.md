@@ -17,6 +17,7 @@ https://www.processing.org/download/
 ```
 Lembre-se de usar a versão voltada para o desenvolvimento sobre a linguagem de programação Java.
 
+
 ### Configurando a biblioteca de som
 Navegue pelos menus superiores de sua IDE e entre na opção:
 ```
